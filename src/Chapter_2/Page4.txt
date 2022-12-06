@@ -5,3 +5,6 @@ sonra gitten bu sayfayı görüyorsun
 bak buaradan da ekleme yapabilirmişiz 
 
 sonra git git e gör değişikliği
+
+more fun
+more java

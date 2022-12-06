@@ -1,0 +1,7 @@
+
+
+
+so far learn git flow for commit and -> push
+
+and
+remote -> local pull /update

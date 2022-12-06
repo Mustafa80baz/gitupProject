@@ -2,3 +2,6 @@ Degiğişiklik buradan yapılıyor
 
 sonra gitten bu sayfayı görüyorsun
 
+bak buaradan da ekleme yapabilirmişiz 
+
+sonra git git e gör değişikliği
